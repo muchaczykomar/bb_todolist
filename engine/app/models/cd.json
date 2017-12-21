@@ -1,0 +1,24 @@
+{
+  "cds": [
+    {
+      "id": "1",
+      "Name": "Nawiasem Mowiac",
+      "Artist": "Lona i Webber"
+    },
+    {
+      "id": "2",
+      "Name": "Swish Swish",
+      "Artist": "Kate Perry"
+    },
+    {
+      "id": "3",
+      "Name": "One More Light",
+      "Artist": "Linkin Park"
+    },
+    {
+      "id": "4",
+      "Name": "Numb/Encore",
+      "Artist": "Linkin Park feat.Jay-Z"
+    }
+  ]
+}

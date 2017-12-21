@@ -1,0 +1,39 @@
+#content {
+    width: 50%;
+}
+#content .list li {
+    display: block;
+}
+#content .form {
+    padding: 20px;
+    border: 1px solid black;
+}
+#content .list {
+    padding: 20px;
+    border: 1px solid black;
+}
+
+#content .form #id_name {
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+#content .form #id_note {
+    width: 100%;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+#content .form label {
+    width: 50%;
+    display: block;
+    margin: 5px;
+}
+#content .form #btn-add {
+    display: block;
+    margin: 5px;
+}
+li {
+    cursor: pointer;
+}

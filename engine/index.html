@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="utf-8"/>
+    <title>ToDo Application.</title>
+    <link rel="stylesheet" type="text/css" href="app/css/style.css"/>
+</head>
+<body>
+
+<div id="main">
+</div>
+
+<script type="text/template" id="todo-list">
+    <h1>Todos: <%= todosLength %></h1>
+    <ul>
+    </ul>
+    <input type="text" id="myInput" />
+    <button id="button">Add</button>
+</script>
+<script type="text/template" id="todo-item">
+    <%= name %>
+</script>
+
+
+<script src="public/javascripts/commons.js"></script>
+<script src="public/javascripts/app.bundle.js"></script>
+</body>
+</html>
+
+
